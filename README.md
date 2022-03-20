@@ -1,2 +1,2 @@
-### YUN YEO JUN 😁
+### YUN YEO JUN
   Hello!
