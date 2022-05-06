@@ -31,4 +31,5 @@
   <a href="https://www.acmicpc.net/user/yyj8771"><img src="https://img.shields.io/badge/BOJ-3766AB?style=flat-square&logo=Bloglovin&logoColor=white"/></a>&nbsp </a>
   <a href="https://codeforces.com/profile/yyjun"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>&nbsp </a>
   <br>
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj8771">
 </p>
