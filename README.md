@@ -24,6 +24,16 @@
 |2022.06 ~ |오늘의 인하|학교, 학과 공지사항을 푸시 알림으로 알려주는 앱|https://github.com/Inha-Univ-Notice-Notification-App/Server|
 |2022.06 ~ 2022.08|정통마켓|학과 내 중고거래 플랫폼 (복지물품 대여 게시판 개발 참여)|https://github.com/ICE-LIFE/ICE-LIFE-Backend|
 
+## 🧩 Algoritm Problem Solving
+
+<p align="center">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj8771">
+  <br>
+  <br>
+  <a href="https://www.acmicpc.net/user/yyj8771"><img src="https://img.shields.io/badge/BOJ-3766AB?style=for-the-badge&logo=Bloglovin&logoColor=white"/></a>&nbsp </a>
+  <a href="https://codeforces.com/profile/yyjun"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>&nbsp </a>
+</p>
+
 ## 📢 Contact
 <p align="center">
   <a href="https://velog.io/@yyj8771"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>&nbsp </a>
