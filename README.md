@@ -1,4 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yun-YeoJun&fontSize=90)
+# Hi, I'm Yun YeoJun 😄😄
+### Junior Backend Enginneer
+
+## 🎓 Education
+- Department of Information and Communication Engineering, Inha University 
+  - 2022.03 ~
+- Kongju High School
+  - 2019.03 ~ 2022.02
+
+## 🧭 Experience
+|Period|Description|
+|---|---|
+|2022.11 ~ |GitHub Campus Expert 선정 (교육 진행 중)|
+|2022.06 ~ |인하대학교 프로그래밍 동아리 IGRUS 회장|
+|2022.06|제20회 임베디드 소프트웨어 경진대회 webOS 부문 본선 진출|
+|2022.03 ~ 2022.06|인하대학교 프로그래밍 동아리 IGRUS 운영진|
+
+## 💻 Project
+|Period|Title|Description|GitHub Repository URL|
+|---|---|---|---|
+|2022.09 ~ 2022.12|인하대학교를 여행하는 히치하이커를 위한 안내서|인하대학교 5호관 건물 내부 길찾기 서비스|https://github.com/The-Hitchhiker-s-Guide-to-Inha-Univ/server|
+|2022.08|IGRUS 회비 입금 확인 자동화 디스코드 봇|동아리 회원들의 회비 납부 여부를 확인하고 정회원 전환을 자동으로 진행해주는 디스코드 봇|https://github.com/IGRUS-INHA/IGRUS_Deposit_Confirmation_Automation_Program|
+|2022.06 ~ |오늘의 인하|학교, 학과 공지사항을 푸시 알림으로 알려주는 앱|https://github.com/Inha-Univ-Notice-Notification-App/Server|
+|2022.06 ~ 2022.08|정통마켓|학과 내 중고거래 플랫폼 (복지물품 대여 게시판 개발 참여)|https://github.com/ICE-LIFE/ICE-LIFE-Backend|
+
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yun-YeoJun&fontSize=90)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -33,4 +59,4 @@
   <a href="https://codeforces.com/profile/yyjun"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>&nbsp </a>
   <br>
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yyj8771">
-</p>
+</p> -->
