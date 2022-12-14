@@ -1,5 +1,5 @@
 # Hi, I'm Yun YeoJun 😄😄
-### Junior Backend Enginneer
+### Junior Backend Engineer
 
 ## 🎓 Education
 - Department of Information and Communication Engineering, Inha University 
