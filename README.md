@@ -24,14 +24,14 @@
 |2022.06 ~ 2022.08|정통마켓|학과 내 중고거래 플랫폼 (복지물품 대여 게시판 개발 참여)|https://github.com/ICE-LIFE/ICE-LIFE-Backend|
 
 ## 📢 Contact
-<p align="center">
+<!--<p align="center">-->
   <a href="https://velog.io/@yyj8771"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>&nbsp </a>
   <a href="https://www.instagram.com/yyj_0917/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp </a>  
   <a href="mailto:yyj8771@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp </a>
 
   <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYun-YeoJun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+<!--</p>-->
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yun-YeoJun&fontSize=90)
