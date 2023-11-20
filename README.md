@@ -2,8 +2,11 @@
 ### Junior Backend Engineer
 
 ## 🎓 Education
-- Department of Information and Communication Engineering, Inha University 
-  - 2022.03 ~
+- Inha University
+  - Department of Information and Communication Engineering
+    - 2022.03 ~
+  - Department of Mathematics (Double major)
+    - 2023.03 ~
 - Kongju High School
   - 2019.03 ~ 2022.02
 
