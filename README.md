@@ -24,7 +24,7 @@
 ## 💻 Project
 |Period|Title|Description|GitHub Repository URL|
 |---|---|---|---|
-|2023.12 ~ |모아모아|네컷사진 포즈 추천 서비스|https://github.com/whatever-mentoring/PixelPioneers_BE|
+|2023.12 ~ 2024.02|모아모아|네컷사진 포즈 추천 서비스|https://github.com/whatever-mentoring/PixelPioneers_BE|
 |2023.01|번뜩|아이디어 거래 플랫폼 - 2023 슈퍼챌린지해커톤 출전작|https://github.com/orgs/Beontteuk/repositories|
 |2022.09 ~ 2022.12|인하대학교를 여행하는 히치하이커를 위한 안내서|인하대학교 5호관 건물 내부 길찾기 서비스|https://github.com/The-Hitchhiker-s-Guide-to-Inha-Univ/server|
 |2022.08|IGRUS 회비 입금 확인 자동화 디스코드 봇|동아리 회원들의 회비 납부 여부를 확인하고 정회원 전환을 자동으로 진행해주는 디스코드 봇|https://github.com/IGRUS-INHA/IGRUS_Deposit_Confirmation_Automation_Program|
