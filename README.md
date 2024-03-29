@@ -5,7 +5,7 @@
 - Inha University
   - Department of Information and Communication Engineering
     - 2022.03 ~
-  - Department of Mathematics (Double major)
+  - Department of Mathematics (Minor)
     - 2023.03 ~
 - Kongju High School
   - 2019.03 ~ 2022.02
@@ -20,6 +20,12 @@
 |2022.06|제20회 임베디드 소프트웨어 경진대회 webOS 부문 본선 진출|
 |2022.03 ~ |인하대학교 프로그래밍 동아리 IGRUS 운영진|
 |2022.03 ~ 2022.12|정보통신공학과 프로그래밍 소모임 인트아이 운영진|
+
+## 🎖️ Certificate
+|Date|Description|
+|---|---|
+|2024.03|제52회 SQL 개발자(SQLD) 합격|
+
 
 ## 💻 Project
 |Period|Title|Description|GitHub Repository URL|
