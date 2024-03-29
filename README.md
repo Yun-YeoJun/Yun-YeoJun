@@ -24,6 +24,7 @@
 ## 🎖️ Certificate
 |Date|Description|
 |---|---|
+|2024.03|정보처리산업기사 필기합격|
 |2024.03|제52회 SQL 개발자(SQLD) 합격|
 
 
