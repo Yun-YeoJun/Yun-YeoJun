@@ -25,9 +25,9 @@
 ## 🎖️ Certificate
 |Date|Description|
 |---|---|
-|2024.03|정보처리산업기사 필기합격|
 |2024.03|제52회 SQL 개발자(SQLD) 합격|
 |2024.06|AWS Certified Solutions Architect - Associate 합격|
+|2024.06|정보처리산업기사 합격|
 
 <a href="https://www.credly.com/badges/0f74a1f2-8fc8-4765-9811-910315b0c688/public_url"><img src="https://github.com/Yun-YeoJun/Yun-YeoJun/assets/30434779/87108f4a-87a7-434a-9f9f-61a7447fc754" width="150"></a>
 
