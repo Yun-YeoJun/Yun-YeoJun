@@ -14,9 +14,10 @@
 |Period|Description|
 |---|---|
 |2024.07|하나 소셜벤처 유니버시티 3기 수료|
+|2024.07|2024 INHA SW NET-ZERO 공동 해커톤 운영|
 |2024.01 ~ |인하대학교 프로그래밍 동아리 IGRUS 기술부장|
 |2024.01|제9회 경인지역 6개 대학 연합 프로그래밍 경시대회 인하대학교 대표 10인 선발|
-|2023.07|INHA SW NET-ZERO 공동 해커톤 기획 & 운영 ([관련 기사](https://swuniv.inha.ac.kr/swuniv/12705/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExNCUyRjEwODQ4OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D))
+|2023.07|2023 INHA SW NET-ZERO 공동 해커톤 기획 & 운영 ([관련 기사](https://swuniv.inha.ac.kr/swuniv/12705/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExNCUyRjEwODQ4OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D))
 |2022.11 ~ |GitHub Campus Expert 선정 (교육 진행 중)|
 |2022.06 ~ 2023.06|인하대학교 프로그래밍 동아리 IGRUS 회장|
 |2022.06|제20회 임베디드 소프트웨어 경진대회 webOS 부문 본선 진출|
