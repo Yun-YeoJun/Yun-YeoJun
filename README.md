@@ -5,6 +5,8 @@
 - Inha University
   - Department of Information and Communication Engineering
     - 2022.03 ~
+  - Department of Statistics (Double Major)
+    - 2025.03 ~
   - Department of Mathematics (Minor)
     - 2023.03 ~
 - Kongju High School
