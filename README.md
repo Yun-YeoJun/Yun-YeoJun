@@ -3,7 +3,7 @@
 
 ## 🎓 Education
 - Inha University
-  - Department of Information and Communication Engineering
+  - Department of Electrical and Electronic Engineering
     - 2022.03 ~
   - Department of Statistics (Double Major)
     - 2025.03 ~
