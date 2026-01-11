@@ -43,7 +43,9 @@
 ## 💻 Project
 |Period|Title|Description|GitHub Repository URL|
 |---|---|---|---|
-|2024.08 ~ |얼리버드|지각 방지 애플리케이션|https://github.com/team-pixels-dev/EarlyBird-BE|
+|2025.12 ~ |120만 유튜버 긱블 커뮤니티 사이트 구축|Private Repo|
+|2025.11 ~ |1.5만 팔로워 크리에이터 쇼핑몰 구축|Private Repo|
+|2024.08 ~ 2025.08|얼리버드|지각 방지 애플리케이션|https://github.com/team-pixels-dev/EarlyBird-BE|
 |2023.12 ~ 2024.02|모아모아|네컷사진 포즈 추천 서비스|https://github.com/whatever-mentoring/PixelPioneers_BE|
 |2023.01|번뜩|아이디어 거래 플랫폼 - 2023 슈퍼챌린지해커톤 출전작|https://github.com/orgs/Beontteuk/repositories|
 |2022.09 ~ 2022.12|인하대학교를 여행하는 히치하이커를 위한 안내서|인하대학교 5호관 건물 내부 길찾기 서비스|https://github.com/The-Hitchhiker-s-Guide-to-Inha-Univ/server|
