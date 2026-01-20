@@ -43,7 +43,7 @@
 ## 💻 Project
 |Period|Title|Description|GitHub Repository URL|
 |---|---|---|---|
-|2025.12 ~ |120만 유튜버 긱블 커뮤니티 사이트 구축|긱블의 커뮤니티 사이트 서버 개발|Private Repo|
+|2025.12 ~ |120만 유튜버 긱블 커뮤니티 사이트 구축|긱블의 커뮤니티 사이트 서버 개발 https://www.geekhub.kr |Private Repo|
 |2025.11 ~ |1.5만 팔로워 크리에이터 쇼핑몰 구축|토스페이먼츠 API를 이용한 결제 기능 구현|Private Repo|
 |2024.08 ~ 2025.08|얼리버드|지각 방지 애플리케이션|https://github.com/team-pixels-dev/EarlyBird-BE|
 |2023.12 ~ 2024.02|모아모아|네컷사진 포즈 추천 서비스|https://github.com/whatever-mentoring/PixelPioneers_BE|
