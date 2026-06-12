@@ -34,6 +34,7 @@
 |2024.06|정보처리산업기사 합격|
 |2026.01|리눅스마스터 2급 합격|
 |2026.04|ISTQB Certified Tester Foundation Level 합격|
+|2026.06|정보처리기사 합격|
 
 
 ## 💻 Project
